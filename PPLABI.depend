@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1622038874 source:c:\users\usuario\desktop\pplabi\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"marcas.h"
+	"servicios.h"
+	"tipos.h"
+	"trabajo.h"
+
+1622038867 c:\users\usuario\desktop\pplabi\marcas.h
+
+1621429929 source:c:\users\usuario\desktop\pplabi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1621431380 c:\users\usuario\desktop\pplabi\validaciones.h
+
+1622036116 source:c:\users\usuario\desktop\pplabi\notebook.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"notebook.h"
+	"marcas.h"
+	"tipos.h"
+	"clientes.h"
+
+1622034974 c:\users\usuario\desktop\pplabi\notebook.h
+	"marcas.h"
+	"tipos.h"
+	"clientes.h"
+
+1622038847 source:c:\users\usuario\desktop\pplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"notebook.h"
+	"marcas.h"
+	"tipos.h"
+	"trabajo.h"
+	"clientes.h"
+	"informes.h"
+
+1622038888 source:c:\users\usuario\desktop\pplabi\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+	"fecha.h"
+	"notebook.h"
+	"servicios.h"
+	"tipos.h"
+	"trabajo.h"
+
+1622038934 c:\users\usuario\desktop\pplabi\tipos.h
+
+1621987323 c:\users\usuario\desktop\pplabi\fecha.h
+
+1622039732 c:\users\usuario\desktop\pplabi\servicios.h
+
+1622039608 c:\users\usuario\desktop\pplabi\trabajo.h
+	"fecha.h"
+	"notebook.h"
+
+1622038895 source:c:\users\usuario\desktop\pplabi\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"tipos.h"
+	"notebook.h"
+	"servicios.h"
+	"tipos.h"
+	"trabajo.h"
+
+1622040064 source:c:\users\usuario\desktop\pplabi\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"marcas.h"
+	"trabajo.h"
+	"servicios.h"
+	"tipos.h"
+	"trabajo.h"
+	<string.h>
+
+1622038929 source:c:\users\usuario\desktop\pplabi\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622038922 c:\users\usuario\desktop\pplabi\clientes.h
+
+1622037849 c:\users\usuario\desktop\pplabi\informes.h
+	"trabajo.h"
+	"servicios.h"
+
+1622038957 source:c:\users\usuario\desktop\pplabi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"marcas.h"
+	"notebook.h"
+	"servicios.h"
+	"tipos.h"
+	"informes.h"
+	"fecha.h"
+	"trabajo.h"
+	<string.h>
+
